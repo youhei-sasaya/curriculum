@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.header {
+    background-color: #141f40;
+    height: 100px;
+    width:  400px;
+}
+
+.main {
+    display: flex;
+}
+.left {
+    background-color: #80bfa8; 
+    height: 250px;
+    width:  150px;
+}
+.right {
+    background-color: #8c2727; 
+    height: 250px;
+    width:  250px;
+ }
+ .right2 {
+    background-color: #ff9e6b; 
+    height: 150px;
+}
+
+.right3-header {
+    background-color: #dbd400; 
+    height: 50px;
+    width: 150px;
+}
+.right3-footer {
+    background-color: #0093b7; 
+    height: 100px;
+    width:  150px;
+}
+
+.footer {
+    background-color: #d98d30;
+    height: 100px;
+    width:  400px;
+}
